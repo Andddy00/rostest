@@ -1,2 +1,2 @@
-
+HELLO
 -DCATKIN_DEVEL_PREFIX=/home/ros/Desktop/yjj/devel -DCMAKE_INSTALL_PREFIX=/home/ros/Desktop/yjj/install -G Unix Makefiles

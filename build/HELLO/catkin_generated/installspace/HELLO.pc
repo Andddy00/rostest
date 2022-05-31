@@ -1,0 +1,8 @@
+prefix=/home/ros/Desktop/yjj/install
+
+Name: HELLO
+Description: Description of HELLO
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

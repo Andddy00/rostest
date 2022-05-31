@@ -7,7 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/ros/Desktop/yjj/devel:$CMAKE_PREFIX_PATH"
+export PKG_CONFIG_PATH='/home/ros/test_workspace/devel/lib/pkgconfig:/home/ros/tutorial_ws/devel/lib/pkgconfig:/opt/ros/kinetic/lib/pkgconfig:/opt/ros/kinetic/lib/x86_64-linux-gnu/pkgconfig'
 export PWD='/home/ros/Desktop/yjj/build'
-export ROSLISP_PACKAGE_DIRECTORIES="/home/ros/Desktop/yjj/devel/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
-export ROS_PACKAGE_PATH="/home/ros/Desktop/yjj/src:$ROS_PACKAGE_PATH"
